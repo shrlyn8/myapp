@@ -18,3 +18,7 @@ Route::get('/about', function () {
 Route::get('/test-db', function () {
     return DB::connection()->getPdo();
 });
+
+Route::get('/', function () {
+    return "APP WORKING 🚀";
+});
