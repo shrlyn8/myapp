@@ -23,3 +23,4 @@ RUN php artisan migrate --force || true
 EXPOSE 8080
 
 CMD php -S 0.0.0.0:$PORT -t public
+RUN php artisan config:clear && php artisan cache:clear
