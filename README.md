@@ -69,24 +69,19 @@ http://127.0.0.1:8000/todos
 
 ### Create
 (public/create.png)
-
-### Output of create
 (public/Output of create.png)
 
 ### Edit
 (public/edit.png)
-
-### output of edit
 (public/output of edit.png)
 
 ### Searchbutton
 (public/searchbutton.png)
-
-### Searchoutput
 (public/searchoutput.png)
 
 ### Delete
-![Delete](public/screenshots/delete.png)
+(public/delete.png)
+(public/deleteoutput.png)
 
 ### About
-![About](public/screenshots/about.png)
+(public/about.png)
