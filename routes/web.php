@@ -20,5 +20,5 @@ Route::get('/test-db', function () {
 });
 
 Route::get('/', function () {
-    return "APP WORKING 🚀";
+    return "Laravel Railway Working 🚀";
 });
