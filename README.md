@@ -60,4 +60,33 @@ http://127.0.0.1:8000/todos
 ## 👨‍💻 Group Members
 - Catid Sherilyn — Lead Developer  
 - Temporosa Catherine — UI/UX Designer  
-- Cabilin Remsie Joy — Database Administrator  
+- Cabilin Remsie Joy — Database Administrator
+
+- ## 📷 Screenshots
+
+### Home
+(public/Home.png)
+
+### Create
+(public/create.png)
+
+### Output of create
+(public/Output of create.png)
+
+### Edit
+(public/edit.png)
+
+### output of edit
+(public/output of edit.png)
+
+### Searchbutton
+(public/searchbutton.png)
+
+### Searchoutput
+(public/searchoutput.png)
+
+### Delete
+![Delete](public/screenshots/delete.png)
+
+### About
+![About](public/screenshots/about.png)
