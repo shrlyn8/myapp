@@ -24,8 +24,40 @@ This project is a web application built using the Laravel Framework that demonst
 
 ---
 
-## ⚙️ Installation Guide
+## ⚙️ Installation
 
-1. Clone repository:
-```bash
-git clone https://github.com/shrlyn8/todo-app.git
+1. Clone repo:
+git clone https://github.com/shrlyn8/myapp.git
+
+2. Open project:
+cd myapp
+
+3. Install dependencies:
+composer install
+
+4. Setup environment:
+cp .env.example .env
+
+5. Generate key:
+php artisan key:generate
+
+6. Configure database in .env
+
+7. Run migrations:
+php artisan migrate
+
+8. Start server:
+php artisan serve
+
+---
+
+## 🌐 Usage
+Open browser:
+http://127.0.0.1:8000/todos
+
+---
+
+## 👨‍💻 Group Members
+- Catid Sherilyn — Lead Developer  
+- Temporosa Catherine — UI/UX Designer  
+- Cabilin Remsie Joy — Database Administrator  
