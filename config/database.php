@@ -44,14 +44,14 @@ return [
             'transaction_mode' => 'DEFERRED',
         ],
 
-       'mysql' => [
+      'mysql' => [
     'driver' => 'mysql',
     'url' => env('DATABASE_URL'),
-    'host' => env('DB_HOST', 'mysql.railway.internal'),
+    'host' => env('DB_HOST'),
     'port' => env('DB_PORT', '3306'),
-    'database' => env('DB_DATABASE', 'railway'),
-    'username' => env('DB_USERNAME', 'root'),
-    'password' => env('DB_PASSWORD', ''),
+    'database' => env('DB_DATABASE'),
+    'username' => env('DB_USERNAME'),
+    'password' => env('DB_PASSWORD'),
     'charset' => 'utf8mb4',
     'collation' => 'utf8mb4_unicode_ci',
 ],
