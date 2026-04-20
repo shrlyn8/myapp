@@ -17,8 +17,9 @@ COPY . .
 # Install dependencies
 RUN composer install --no-dev --optimize-autoloader
 
-# 🔥 NOW run artisan (after files exist)
-
+# 🔥 CRITICAL FIX
+RUN rm -f bootstrap/cache/config.php
+RUN php artisan config:clear || true
 RUN php artisan cache:clear || true
 
 # Start server
