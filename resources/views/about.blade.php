@@ -9,6 +9,7 @@
         <li><b>Catid Sherilyn</b> - Lead Developer</li>
         <li><b>Temporosa Catherine</b> - UI/UX Designer</li>
         <li><b>Cabilin Remsie Joy</b> - Database Administrator</li>
+        <li><b>Navales, Darlene</b> - Content Writer</li>
     </ul>
     <a href="/todos" class="mt-4 inline-block text-blue-500 hover:underline">
         ← Back to Todos
