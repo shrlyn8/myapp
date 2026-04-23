@@ -35,10 +35,7 @@ Open browser: http://127.0.0.1:8000/todos
 
 Group Members:
 
-Catid, Sherilyn — Lead Developer
-
-Temporosa, Catherine — UI/UX Designer
-
-Cabilin, Remsie Joy — Database Administrator
-
+Catid, Sherilyn — Lead Developer 
+Temporosa, Catherine — UI/UX Designer 
+Cabilin, Remsie Joy — Database Administrator 
 Navales, Darlene — Content Writer
